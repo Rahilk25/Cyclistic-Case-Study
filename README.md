@@ -4,3 +4,4 @@ I will take on the role of a junior data analyst at the fictional company, Cycli
 
 ## Links
 
+Data preview: 
