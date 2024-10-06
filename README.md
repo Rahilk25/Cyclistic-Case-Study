@@ -30,7 +30,7 @@ I am assuming to be a junior data analyst working in the marketing analyst team 
 I will use Cyclistic’s historical trip data to analyze and identify trends from Jan 2022 to Dec 2022 which can be downloaded from [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). The data has been made available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement).
 
 ### Combining the Data
-SQL Query: [Data Combining](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/01.%20Data%20Combining.sql)  
+SQL Query: [https://github.com/Rahilk25/Cyclistic-Case-Study/blob/main/Data%20Combining.sql)  
 12 csv files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5,667,717 rows of data for the entire year. 
 
 
