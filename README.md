@@ -49,7 +49,7 @@ Throughout the year, members consistently take more trips than casual riders, ev
 
 ## Recommendations:
 ### Winter Promotions: 
-Target casual riders with incentives to increase winter rides.
+Target both riders with offers to increase winter rides.
 ### Membership Offers:
 Encourage casual riders to become members during peak summer months with promotional offers.
 ### Summer Campaigns: 
@@ -68,7 +68,7 @@ Both casual and member riders have shorter rides in December, with casuals avera
 ### Recommendations:
 Focus weekend promotions on casual riders.      
 Launch summer campaigns encouraging longer rides.   
-Offer winter incentives for quicker rides.
+Offer winter discounts for quicker rides.
 
 # Monthly And Quarterly Trends
 
@@ -95,7 +95,7 @@ User Feedback: Gather insights to address barriers in off-peak seasons.
 Classic bikes are popular among all users.  
 Classic bikes are popular among all users, followed by electric bikes. The high availability of these two bike types contributes significantly to their preference. Ensuring a consistent supply of classic and electric bikes can enhance user satisfaction and encourage more rides, particularly among casual users.    
 ### Encourage Electric Bike Use:
-Offer incentives to casual riders.  
+Offer discounts to casual riders.  
 ### Docked Bikes: 
 Investigate low engagement and improve service offerings.
 
