@@ -92,7 +92,7 @@ User Feedback: Gather insights to address barriers in off-peak seasons.
 ![image](https://github.com/user-attachments/assets/7415be21-f836-4684-99ea-6ac68c295597)
 
 ## Insights 
-Classic bikes are popular among all users.  
+
 Classic bikes are popular among all users, followed by electric bikes. The high availability of these two bike types contributes significantly to their preference. Ensuring a consistent supply of classic and electric bikes can enhance user satisfaction and encourage more rides, particularly among casual users.    
 ### Encourage Electric Bike Use:
 Offer discounts to casual riders.  
